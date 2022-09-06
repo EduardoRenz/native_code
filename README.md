@@ -1,6 +1,6 @@
 # native_code
 
-A new Flutter project.
+Creating a native Kotling code and calling in Flutter
 
 ## Getting Started
 
